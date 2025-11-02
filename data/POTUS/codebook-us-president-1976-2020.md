@@ -1,4 +1,4 @@
-#Codebook for U.S. President Returns 1976–2016
+# Codebook for U.S. President Returns 1976–2016
 
 The data file `1976-2016-president` contains constituency (state-level) returns for elections to the U.S. presidency from 1976 to 2016.  The data source is the document "[Statistics of the Congressional Election](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)," published biennially by the Clerk of the U.S. House of Representatives.
 

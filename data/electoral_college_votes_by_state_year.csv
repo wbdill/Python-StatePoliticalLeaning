@@ -1,0 +1,781 @@
+year,state,state_po,state_fips,state_ev_total,ev_dem,ev_rep
+2024,Alabama,AL,01,9,,9
+2024,Alaska,AK,02,3,,3
+2024,Arizona,AZ,04,11,,11
+2024,Arkansas,AR,05,6,,6
+2024,California,CA,06,54,54,
+2024,Colorado,CO,08,10,10,
+2024,Connecticut,CT,09,7,7,
+2024,Delaware,DE,10,3,3,
+2024,District of Columbia,DC,11,3,3,
+2024,Florida,FL,12,30,,30
+2024,Georgia,GA,13,16,,16
+2024,Hawaii,HI,15,4,4,
+2024,Idaho,ID,16,4,,4
+2024,Illinois,IL,17,19,19,
+2024,Indiana,IN,18,11,,11
+2024,Iowa,IA,19,6,,6
+2024,Kansas,KS,20,6,,6
+2024,Kentucky,KY,21,8,,8
+2024,Louisiana,LA,22,8,,8
+2024,Maine,ME,23,4,3,1
+2024,Maryland,MD,24,10,10,
+2024,Massachusetts,MA,25,11,11,
+2024,Michigan,MI,26,15,,15
+2024,Minnesota,MN,27,10,10,
+2024,Mississippi,MS,28,6,,6
+2024,Missouri,MO,29,10,,10
+2024,Montana,MT,30,4,,4
+2024,Nebraska,NE,31,5,1,4
+2024,Nevada,NV,32,6,,6
+2024,New Hampshire,NH,33,4,4,
+2024,New Jersey,NJ,34,14,14,
+2024,New Mexico,NM,35,5,5,
+2024,New York,NY,36,28,28,
+2024,North Carolina,NC,37,16,,16
+2024,North Dakota,ND,38,3,,3
+2024,Ohio,OH,39,17,,17
+2024,Oklahoma,OK,40,7,,7
+2024,Oregon,OR,41,8,8,
+2024,Pennsylvania,PA,42,19,,19
+2024,Rhode Island,RI,44,4,4,
+2024,South Carolina,SC,45,9,,9
+2024,South Dakota,SD,46,3,,3
+2024,Tennessee,TN,47,11,,11
+2024,Texas,TX,48,40,,40
+2024,Utah,UT,49,6,,6
+2024,Vermont,VT,50,3,3,
+2024,Virginia,VA,51,13,13,
+2024,Washington,WA,53,12,12,
+2024,West Virginia,WV,54,4,,4
+2024,Wisconsin,WI,55,10,,10
+2024,Wyoming,WY,56,3,,3
+2024,Total,,,538,226,312
+2020,Alabama,AL,01,9,,9
+2020,Alaska,AK,02,3,,3
+2020,Arizona,AZ,04,11,11,
+2020,Arkansas,AR,05,6,,6
+2020,California,CA,06,55,55,
+2020,Colorado,CO,08,9,9,
+2020,Connecticut,CT,09,7,7,
+2020,Delaware,DE,10,3,3,
+2020,District of Columbia,DC,11,3,3,
+2020,Florida,FL,12,29,,29
+2020,Georgia,GA,13,16,16,
+2020,Hawaii,HI,15,4,4,
+2020,Idaho,ID,16,4,,4
+2020,Illinois,IL,17,20,20,
+2020,Indiana,IN,18,11,,11
+2020,Iowa,IA,19,6,,6
+2020,Kansas,KS,20,6,,6
+2020,Kentucky,KY,21,8,,8
+2020,Louisiana,LA,22,8,,8
+2020,Maine,ME,23,4,3,1
+2020,Maryland,MD,24,10,10,
+2020,Massachusetts,MA,25,11,11,
+2020,Michigan,MI,26,16,16,
+2020,Minnesota,MN,27,10,10,
+2020,Mississippi,MS,28,6,,6
+2020,Missouri,MO,29,10,,10
+2020,Montana,MT,30,3,,3
+2020,Nebraska,NE,31,5,1,4
+2020,Nevada,NV,32,6,6,
+2020,New Hampshire,NH,33,4,4,
+2020,New Jersey,NJ,34,14,14,
+2020,New Mexico,NM,35,5,5,
+2020,New York,NY,36,29,29,
+2020,North Carolina,NC,37,15,,15
+2020,North Dakota,ND,38,3,,3
+2020,Ohio,OH,39,18,,18
+2020,Oklahoma,OK,40,7,,7
+2020,Oregon,OR,41,7,7,
+2020,Pennsylvania,PA,42,20,20,
+2020,Rhode Island,RI,44,4,4,
+2020,South Carolina,SC,45,9,,9
+2020,South Dakota,SD,46,3,,3
+2020,Tennessee,TN,47,11,,11
+2020,Texas,TX,48,38,,38
+2020,Utah,UT,49,6,,6
+2020,Vermont,VT,50,3,3,
+2020,Virginia,VA,51,13,13,
+2020,Washington,WA,53,12,12,
+2020,West Virginia,WV,54,5,,5
+2020,Wisconsin,WI,55,10,10,
+2020,Wyoming,WY,56,3,,3
+2020,Total,,,538,306,232
+2016,Alabama,AL,01,9,,9
+2016,Alaska,AK,02,3,,3
+2016,Arizona,AZ,04,11,,11
+2016,Arkansas,AR,05,6,,6
+2016,California,CA,06,55,55,
+2016,Colorado,CO,08,9,9,
+2016,Connecticut,CT,09,7,7,
+2016,Delaware,DE,10,3,3,
+2016,District of Columbia,DC,11,3,3,
+2016,Florida,FL,12,29,,29
+2016,Georgia,GA,13,16,,16
+2016,Hawaii,HI,15,4,3,
+2016,Idaho,ID,16,4,,4
+2016,Illinois,IL,17,20,20,
+2016,Indiana,IN,18,11,,11
+2016,Iowa,IA,19,6,,6
+2016,Kansas,KS,20,6,,6
+2016,Kentucky,KY,21,8,,8
+2016,Louisiana,LA,22,8,,8
+2016,Maine,ME,23,4,3,1
+2016,Maryland,MD,24,10,10,
+2016,Massachusetts,MA,25,11,11,
+2016,Michigan,MI,26,16,,16
+2016,Minnesota,MN,27,10,10,
+2016,Mississippi,MS,28,6,,6
+2016,Missouri,MO,29,10,,10
+2016,Montana,MT,30,3,,3
+2016,Nebraska,NE,31,5,,5
+2016,Nevada,NV,32,6,6,
+2016,New Hampshire,NH,33,4,4,
+2016,New Jersey,NJ,34,14,14,
+2016,New Mexico,NM,35,5,5,
+2016,New York,NY,36,29,29,
+2016,North Carolina,NC,37,15,,15
+2016,North Dakota,ND,38,3,,3
+2016,Ohio,OH,39,18,,18
+2016,Oklahoma,OK,40,7,,7
+2016,Oregon,OR,41,7,7,
+2016,Pennsylvania,PA,42,20,,20
+2016,Rhode Island,RI,44,4,4,
+2016,South Carolina,SC,45,9,,9
+2016,South Dakota,SD,46,3,,3
+2016,Tennessee,TN,47,11,,11
+2016,Texas,TX,48,38,,36
+2016,Utah,UT,49,6,,6
+2016,Vermont,VT,50,3,3,
+2016,Virginia,VA,51,13,13,
+2016,Washington,WA,53,12,8,
+2016,West Virginia,WV,54,5,,5
+2016,Wisconsin,WI,55,10,,10
+2016,Wyoming,WY,56,3,,3
+2016,Total,,,538,227,304
+2012,Alabama,AL,01,9,,9
+2012,Alaska,AK,02,3,,3
+2012,Arizona,AZ,04,11,,11
+2012,Arkansas,AR,05,6,,6
+2012,California,CA,06,55,55,
+2012,Colorado,CO,08,9,9,
+2012,Connecticut,CT,09,7,7,
+2012,Delaware,DE,10,3,3,
+2012,District of Columbia,DC,11,3,3,
+2012,Florida,FL,12,29,29,
+2012,Georgia,GA,13,16,,16
+2012,Hawaii,HI,15,4,4,
+2012,Idaho,ID,16,4,,4
+2012,Illinois,IL,17,20,20,
+2012,Indiana,IN,18,11,,11
+2012,Iowa,IA,19,6,6,
+2012,Kansas,KS,20,6,,6
+2012,Kentucky,KY,21,8,,8
+2012,Louisiana,LA,22,8,,8
+2012,Maine,ME,23,4,4,
+2012,Maryland,MD,24,10,10,
+2012,Massachusetts,MA,25,11,11,
+2012,Michigan,MI,26,16,16,
+2012,Minnesota,MN,27,10,10,
+2012,Mississippi,MS,28,6,,6
+2012,Missouri,MO,29,10,,10
+2012,Montana,MT,30,3,,3
+2012,Nebraska,NE,31,5,,5
+2012,Nevada,NV,32,6,6,
+2012,New Hampshire,NH,33,4,4,
+2012,New Jersey,NJ,34,14,14,
+2012,New Mexico,NM,35,5,5,
+2012,New York,NY,36,29,29,
+2012,North Carolina,NC,37,15,,15
+2012,North Dakota,ND,38,3,,3
+2012,Ohio,OH,39,18,18,
+2012,Oklahoma,OK,40,7,,7
+2012,Oregon,OR,41,7,7,
+2012,Pennsylvania,PA,42,20,20,
+2012,Rhode Island,RI,44,4,4,
+2012,South Carolina,SC,45,9,,9
+2012,South Dakota,SD,46,3,,3
+2012,Tennessee,TN,47,11,,11
+2012,Texas,TX,48,38,,38
+2012,Utah,UT,49,6,,6
+2012,Vermont,VT,50,3,3,
+2012,Virginia,VA,51,13,13,
+2012,Washington,WA,53,12,12,
+2012,West Virginia,WV,54,5,,5
+2012,Wisconsin,WI,55,10,10,
+2012,Wyoming,WY,56,3,,3
+2012,Total,,,538,332,206
+2008,Alabama,AL,01,9,,9
+2008,Alaska,AK,02,3,,3
+2008,Arizona,AZ,04,10,,10
+2008,Arkansas,AR,05,6,,6
+2008,California,CA,06,55,55,
+2008,Colorado,CO,08,9,9,
+2008,Connecticut,CT,09,7,7,
+2008,Delaware,DE,10,3,3,
+2008,District of Columbia,DC,11,3,3,
+2008,Florida,FL,12,27,27,
+2008,Georgia,GA,13,15,,15
+2008,Hawaii,HI,15,4,4,
+2008,Idaho,ID,16,4,,4
+2008,Illinois,IL,17,21,21,
+2008,Indiana,IN,18,11,11,
+2008,Iowa,IA,19,7,7,
+2008,Kansas,KS,20,6,,6
+2008,Kentucky,KY,21,8,,8
+2008,Louisiana,LA,22,9,,9
+2008,Maine,ME,23,4,4,
+2008,Maryland,MD,24,10,10,
+2008,Massachusetts,MA,25,12,12,
+2008,Michigan,MI,26,17,17,
+2008,Minnesota,MN,27,10,10,
+2008,Mississippi,MS,28,6,,6
+2008,Missouri,MO,29,11,,11
+2008,Montana,MT,30,3,,3
+2008,Nebraska,NE,31,5,1,4
+2008,Nevada,NV,32,5,5,
+2008,New Hampshire,NH,33,4,4,
+2008,New Jersey,NJ,34,15,15,
+2008,New Mexico,NM,35,5,5,
+2008,New York,NY,36,31,31,
+2008,North Carolina,NC,37,15,15,
+2008,North Dakota,ND,38,3,,3
+2008,Ohio,OH,39,20,20,
+2008,Oklahoma,OK,40,7,,7
+2008,Oregon,OR,41,7,7,
+2008,Pennsylvania,PA,42,21,21,
+2008,Rhode Island,RI,44,4,4,
+2008,South Carolina,SC,45,8,,8
+2008,South Dakota,SD,46,3,,3
+2008,Tennessee,TN,47,11,,11
+2008,Texas,TX,48,34,,34
+2008,Utah,UT,49,5,,5
+2008,Vermont,VT,50,3,3,
+2008,Virginia,VA,51,13,13,
+2008,Washington,WA,53,11,11,
+2008,West Virginia,WV,54,5,,5
+2008,Wisconsin,WI,55,10,10,
+2008,Wyoming,WY,56,3,,3
+2008,Total,,,538,365,173
+2004,Alabama,AL,01,9,,9
+2004,Alaska,AK,02,3,,3
+2004,Arizona,AZ,04,10,,10
+2004,Arkansas,AR,05,6,,6
+2004,California,CA,06,55,55,
+2004,Colorado,CO,08,9,,9
+2004,Connecticut,CT,09,7,7,
+2004,Delaware,DE,10,3,3,
+2004,District of Columbia,DC,11,3,3,
+2004,Florida,FL,12,27,,27
+2004,Georgia,GA,13,15,,15
+2004,Hawaii,HI,15,4,4,
+2004,Idaho,ID,16,4,,4
+2004,Illinois,IL,17,21,21,
+2004,Indiana,IN,18,11,,11
+2004,Iowa,IA,19,7,,7
+2004,Kansas,KS,20,6,,6
+2004,Kentucky,KY,21,8,,8
+2004,Louisiana,LA,22,9,,9
+2004,Maine,ME,23,4,4,
+2004,Maryland,MD,24,10,10,
+2004,Massachusetts,MA,25,12,12,
+2004,Michigan,MI,26,17,17,
+2004,Minnesota,MN,27,10,9,
+2004,Mississippi,MS,28,6,,6
+2004,Missouri,MO,29,11,,11
+2004,Montana,MT,30,3,,3
+2004,Nebraska,NE,31,5,,5
+2004,Nevada,NV,32,5,,5
+2004,New Hampshire,NH,33,4,4,
+2004,New Jersey,NJ,34,15,15,
+2004,New Mexico,NM,35,5,,5
+2004,New York,NY,36,31,31,
+2004,North Carolina,NC,37,15,,15
+2004,North Dakota,ND,38,3,,3
+2004,Ohio,OH,39,20,,20
+2004,Oklahoma,OK,40,7,,7
+2004,Oregon,OR,41,7,7,
+2004,Pennsylvania,PA,42,21,21,
+2004,Rhode Island,RI,44,4,4,
+2004,South Carolina,SC,45,8,,8
+2004,South Dakota,SD,46,3,,3
+2004,Tennessee,TN,47,11,,11
+2004,Texas,TX,48,34,,34
+2004,Utah,UT,49,5,,5
+2004,Vermont,VT,50,3,3,
+2004,Virginia,VA,51,13,,13
+2004,Washington,WA,53,11,11,
+2004,West Virginia,WV,54,5,,5
+2004,Wisconsin,WI,55,10,10,
+2004,Wyoming,WY,56,3,,3
+2004,Total,,,538,251,286
+2000,Alabama,AL,01,9,,9
+2000,Alaska,AK,02,3,,3
+2000,Arizona,AZ,04,8,,8
+2000,Arkansas,AR,05,6,,6
+2000,California,CA,06,54,54,
+2000,Colorado,CO,08,8,,8
+2000,Connecticut,CT,09,8,8,
+2000,Delaware,DE,10,3,3,
+2000,District of Columbia,DC,11,3,2,
+2000,Florida,FL,12,25,,25
+2000,Georgia,GA,13,13,,13
+2000,Hawaii,HI,15,4,4,
+2000,Idaho,ID,16,4,,4
+2000,Illinois,IL,17,22,22,
+2000,Indiana,IN,18,12,,12
+2000,Iowa,IA,19,7,7,
+2000,Kansas,KS,20,6,,6
+2000,Kentucky,KY,21,8,,8
+2000,Louisiana,LA,22,9,,9
+2000,Maine,ME,23,4,4,
+2000,Maryland,MD,24,10,10,
+2000,Massachusetts,MA,25,12,12,
+2000,Michigan,MI,26,18,18,
+2000,Minnesota,MN,27,10,10,
+2000,Mississippi,MS,28,7,,7
+2000,Missouri,MO,29,11,,11
+2000,Montana,MT,30,3,,3
+2000,Nebraska,NE,31,5,,5
+2000,Nevada,NV,32,4,,4
+2000,New Hampshire,NH,33,4,,4
+2000,New Jersey,NJ,34,15,15,
+2000,New Mexico,NM,35,5,5,
+2000,New York,NY,36,33,33,
+2000,North Carolina,NC,37,14,,14
+2000,North Dakota,ND,38,3,,3
+2000,Ohio,OH,39,21,,21
+2000,Oklahoma,OK,40,8,,8
+2000,Oregon,OR,41,7,7,
+2000,Pennsylvania,PA,42,23,23,
+2000,Rhode Island,RI,44,4,4,
+2000,South Carolina,SC,45,8,,8
+2000,South Dakota,SD,46,3,,3
+2000,Tennessee,TN,47,11,,11
+2000,Texas,TX,48,32,,32
+2000,Utah,UT,49,5,,5
+2000,Vermont,VT,50,3,3,
+2000,Virginia,VA,51,13,,13
+2000,Washington,WA,53,11,11,
+2000,West Virginia,WV,54,5,,5
+2000,Wisconsin,WI,55,11,11,
+2000,Wyoming,WY,56,3,,3
+2000,Total,,,538,266,271
+1996,Alabama,AL,01,9,,9
+1996,Alaska,AK,02,3,,3
+1996,Arizona,AZ,04,8,8,
+1996,Arkansas,AR,05,6,6,
+1996,California,CA,06,54,54,
+1996,Colorado,CO,08,8,,8
+1996,Connecticut,CT,09,8,8,
+1996,Delaware,DE,10,3,3,
+1996,District of Columbia,DC,11,3,3,
+1996,Florida,FL,12,25,25,
+1996,Georgia,GA,13,13,,13
+1996,Hawaii,HI,15,4,4,
+1996,Idaho,ID,16,4,,4
+1996,Illinois,IL,17,22,22,
+1996,Indiana,IN,18,12,,12
+1996,Iowa,IA,19,7,7,
+1996,Kansas,KS,20,6,,6
+1996,Kentucky,KY,21,8,8,
+1996,Louisiana,LA,22,9,9,
+1996,Maine,ME,23,4,4,
+1996,Maryland,MD,24,10,10,
+1996,Massachusetts,MA,25,12,12,
+1996,Michigan,MI,26,18,18,
+1996,Minnesota,MN,27,10,10,
+1996,Mississippi,MS,28,7,,7
+1996,Missouri,MO,29,11,11,
+1996,Montana,MT,30,3,,3
+1996,Nebraska,NE,31,5,,5
+1996,Nevada,NV,32,4,4,
+1996,New Hampshire,NH,33,4,4,
+1996,New Jersey,NJ,34,15,15,
+1996,New Mexico,NM,35,5,5,
+1996,New York,NY,36,33,33,
+1996,North Carolina,NC,37,14,,14
+1996,North Dakota,ND,38,3,,3
+1996,Ohio,OH,39,21,21,
+1996,Oklahoma,OK,40,8,,8
+1996,Oregon,OR,41,7,7,
+1996,Pennsylvania,PA,42,23,23,
+1996,Rhode Island,RI,44,4,4,
+1996,South Carolina,SC,45,8,,8
+1996,South Dakota,SD,46,3,,3
+1996,Tennessee,TN,47,11,11,
+1996,Texas,TX,48,32,,32
+1996,Utah,UT,49,5,,5
+1996,Vermont,VT,50,3,3,
+1996,Virginia,VA,51,13,,13
+1996,Washington,WA,53,11,11,
+1996,West Virginia,WV,54,5,5,
+1996,Wisconsin,WI,55,11,11,
+1996,Wyoming,WY,56,3,,3
+1996,Total,,,538,379,159
+1992,Alabama,AL,01,9,,9
+1992,Alaska,AK,02,3,,3
+1992,Arizona,AZ,04,8,,8
+1992,Arkansas,AR,05,6,6,
+1992,California,CA,06,54,54,
+1992,Colorado,CO,08,8,8,
+1992,Connecticut,CT,09,8,8,
+1992,Delaware,DE,10,3,3,
+1992,District of Columbia,DC,11,3,3,
+1992,Florida,FL,12,25,,25
+1992,Georgia,GA,13,13,13,
+1992,Hawaii,HI,15,4,4,
+1992,Idaho,ID,16,4,,4
+1992,Illinois,IL,17,22,22,
+1992,Indiana,IN,18,12,,12
+1992,Iowa,IA,19,7,7,
+1992,Kansas,KS,20,6,,6
+1992,Kentucky,KY,21,8,8,
+1992,Louisiana,LA,22,9,9,
+1992,Maine,ME,23,4,4,
+1992,Maryland,MD,24,10,10,
+1992,Massachusetts,MA,25,12,12,
+1992,Michigan,MI,26,18,18,
+1992,Minnesota,MN,27,10,10,
+1992,Mississippi,MS,28,7,,7
+1992,Missouri,MO,29,11,11,
+1992,Montana,MT,30,3,3,
+1992,Nebraska,NE,31,5,,5
+1992,Nevada,NV,32,4,4,
+1992,New Hampshire,NH,33,4,4,
+1992,New Jersey,NJ,34,15,15,
+1992,New Mexico,NM,35,5,5,
+1992,New York,NY,36,33,33,
+1992,North Carolina,NC,37,14,,14
+1992,North Dakota,ND,38,3,,3
+1992,Ohio,OH,39,21,21,
+1992,Oklahoma,OK,40,8,,8
+1992,Oregon,OR,41,7,7,
+1992,Pennsylvania,PA,42,23,23,
+1992,Rhode Island,RI,44,4,4,
+1992,South Carolina,SC,45,8,,8
+1992,South Dakota,SD,46,3,,3
+1992,Tennessee,TN,47,11,11,
+1992,Texas,TX,48,32,,32
+1992,Utah,UT,49,5,,5
+1992,Vermont,VT,50,3,3,
+1992,Virginia,VA,51,13,,13
+1992,Washington,WA,53,11,11,
+1992,West Virginia,WV,54,5,5,
+1992,Wisconsin,WI,55,11,11,
+1992,Wyoming,WY,56,3,,3
+1992,Total,,,538,370,168
+1988,Alabama,AL,01,9,,9
+1988,Alaska,AK,02,3,,3
+1988,Arizona,AZ,04,7,,7
+1988,Arkansas,AR,05,6,,6
+1988,California,CA,06,47,,47
+1988,Colorado,CO,08,8,,8
+1988,Connecticut,CT,09,8,,8
+1988,Delaware,DE,10,3,,3
+1988,District of Columbia,DC,11,3,3,
+1988,Florida,FL,12,21,,21
+1988,Georgia,GA,13,12,,12
+1988,Hawaii,HI,15,4,4,
+1988,Idaho,ID,16,4,,4
+1988,Illinois,IL,17,24,,24
+1988,Indiana,IN,18,12,,12
+1988,Iowa,IA,19,8,8,
+1988,Kansas,KS,20,7,,7
+1988,Kentucky,KY,21,9,,9
+1988,Louisiana,LA,22,10,,10
+1988,Maine,ME,23,4,,4
+1988,Maryland,MD,24,10,,10
+1988,Massachusetts,MA,25,13,13,
+1988,Michigan,MI,26,20,,20
+1988,Minnesota,MN,27,10,10,
+1988,Mississippi,MS,28,7,,7
+1988,Missouri,MO,29,11,,11
+1988,Montana,MT,30,4,,4
+1988,Nebraska,NE,31,5,,5
+1988,Nevada,NV,32,4,,4
+1988,New Hampshire,NH,33,4,,4
+1988,New Jersey,NJ,34,16,,16
+1988,New Mexico,NM,35,5,,5
+1988,New York,NY,36,36,36,
+1988,North Carolina,NC,37,13,,13
+1988,North Dakota,ND,38,3,,3
+1988,Ohio,OH,39,23,,23
+1988,Oklahoma,OK,40,8,,8
+1988,Oregon,OR,41,7,7,
+1988,Pennsylvania,PA,42,25,,25
+1988,Rhode Island,RI,44,4,4,
+1988,South Carolina,SC,45,8,,8
+1988,South Dakota,SD,46,3,,3
+1988,Tennessee,TN,47,11,,11
+1988,Texas,TX,48,29,,29
+1988,Utah,UT,49,5,,5
+1988,Vermont,VT,50,3,,3
+1988,Virginia,VA,51,12,,12
+1988,Washington,WA,53,10,10,
+1988,West Virginia,WV,54,6,5,
+1988,Wisconsin,WI,55,11,11,
+1988,Wyoming,WY,56,3,,3
+1988,Total,,,538,111,426
+1984,Alabama,AL,01,9,,9
+1984,Alaska,AK,02,3,,3
+1984,Arizona,AZ,04,7,,7
+1984,Arkansas,AR,05,6,,6
+1984,California,CA,06,47,,47
+1984,Colorado,CO,08,8,,8
+1984,Connecticut,CT,09,8,,8
+1984,Delaware,DE,10,3,,3
+1984,District of Columbia,DC,11,3,3,
+1984,Florida,FL,12,21,,21
+1984,Georgia,GA,13,12,,12
+1984,Hawaii,HI,15,4,,4
+1984,Idaho,ID,16,4,,4
+1984,Illinois,IL,17,24,,24
+1984,Indiana,IN,18,12,,12
+1984,Iowa,IA,19,8,,8
+1984,Kansas,KS,20,7,,7
+1984,Kentucky,KY,21,9,,9
+1984,Louisiana,LA,22,10,,10
+1984,Maine,ME,23,4,,4
+1984,Maryland,MD,24,10,,10
+1984,Massachusetts,MA,25,13,,13
+1984,Michigan,MI,26,20,,20
+1984,Minnesota,MN,27,10,10,
+1984,Mississippi,MS,28,7,,7
+1984,Missouri,MO,29,11,,11
+1984,Montana,MT,30,4,,4
+1984,Nebraska,NE,31,5,,5
+1984,Nevada,NV,32,4,,4
+1984,New Hampshire,NH,33,4,,4
+1984,New Jersey,NJ,34,16,,16
+1984,New Mexico,NM,35,5,,5
+1984,New York,NY,36,36,,36
+1984,North Carolina,NC,37,13,,13
+1984,North Dakota,ND,38,3,,3
+1984,Ohio,OH,39,23,,23
+1984,Oklahoma,OK,40,8,,8
+1984,Oregon,OR,41,7,,7
+1984,Pennsylvania,PA,42,25,,25
+1984,Rhode Island,RI,44,4,,4
+1984,South Carolina,SC,45,8,,8
+1984,South Dakota,SD,46,3,,3
+1984,Tennessee,TN,47,11,,11
+1984,Texas,TX,48,29,,29
+1984,Utah,UT,49,5,,5
+1984,Vermont,VT,50,3,,3
+1984,Virginia,VA,51,12,,12
+1984,Washington,WA,53,10,,10
+1984,West Virginia,WV,54,6,,6
+1984,Wisconsin,WI,55,11,,11
+1984,Wyoming,WY,56,3,,3
+1984,Total,,,538,13,525
+1980,Alabama,AL,01,9,,9
+1980,Alaska,AK,02,3,,3
+1980,Arizona,AZ,04,6,,6
+1980,Arkansas,AR,05,6,,6
+1980,California,CA,06,45,,45
+1980,Colorado,CO,08,7,,7
+1980,Connecticut,CT,09,8,,8
+1980,Delaware,DE,10,3,,3
+1980,District of Columbia,DC,11,3,3,
+1980,Florida,FL,12,17,,17
+1980,Georgia,GA,13,12,12,
+1980,Hawaii,HI,15,4,4,
+1980,Idaho,ID,16,4,,4
+1980,Illinois,IL,17,26,,26
+1980,Indiana,IN,18,13,,13
+1980,Iowa,IA,19,8,,8
+1980,Kansas,KS,20,7,,7
+1980,Kentucky,KY,21,9,,9
+1980,Louisiana,LA,22,10,,10
+1980,Maine,ME,23,4,,4
+1980,Maryland,MD,24,10,10,
+1980,Massachusetts,MA,25,14,,14
+1980,Michigan,MI,26,21,,21
+1980,Minnesota,MN,27,10,10,
+1980,Mississippi,MS,28,7,,7
+1980,Missouri,MO,29,12,,12
+1980,Montana,MT,30,4,,4
+1980,Nebraska,NE,31,5,,5
+1980,Nevada,NV,32,3,,3
+1980,New Hampshire,NH,33,4,,4
+1980,New Jersey,NJ,34,17,,17
+1980,New Mexico,NM,35,4,,4
+1980,New York,NY,36,41,,41
+1980,North Carolina,NC,37,13,,13
+1980,North Dakota,ND,38,3,,3
+1980,Ohio,OH,39,25,,25
+1980,Oklahoma,OK,40,8,,8
+1980,Oregon,OR,41,6,,6
+1980,Pennsylvania,PA,42,27,,27
+1980,Rhode Island,RI,44,4,4,
+1980,South Carolina,SC,45,8,,8
+1980,South Dakota,SD,46,4,,4
+1980,Tennessee,TN,47,10,,10
+1980,Texas,TX,48,26,,26
+1980,Utah,UT,49,4,,4
+1980,Vermont,VT,50,3,,3
+1980,Virginia,VA,51,12,,12
+1980,Washington,WA,53,9,,9
+1980,West Virginia,WV,54,6,6,
+1980,Wisconsin,WI,55,11,,11
+1980,Wyoming,WY,56,3,,3
+1980,Total,,,538,49,489
+1976,Alabama,AL,01,9,9,
+1976,Alaska,AK,02,3,,3
+1976,Arizona,AZ,04,6,,6
+1976,Arkansas,AR,05,6,6,
+1976,California,CA,06,45,,45
+1976,Colorado,CO,08,7,,7
+1976,Connecticut,CT,09,8,,8
+1976,Delaware,DE,10,3,3,
+1976,District of Columbia,DC,11,3,3,
+1976,Florida,FL,12,17,17,
+1976,Georgia,GA,13,12,12,
+1976,Hawaii,HI,15,4,4,
+1976,Idaho,ID,16,4,,4
+1976,Illinois,IL,17,26,,26
+1976,Indiana,IN,18,13,,13
+1976,Iowa,IA,19,8,,8
+1976,Kansas,KS,20,7,,7
+1976,Kentucky,KY,21,9,9,
+1976,Louisiana,LA,22,10,10,
+1976,Maine,ME,23,4,,4
+1976,Maryland,MD,24,10,10,
+1976,Massachusetts,MA,25,14,14,
+1976,Michigan,MI,26,21,,21
+1976,Minnesota,MN,27,10,10,
+1976,Mississippi,MS,28,7,7,
+1976,Missouri,MO,29,12,12,
+1976,Montana,MT,30,4,,4
+1976,Nebraska,NE,31,5,,5
+1976,Nevada,NV,32,3,,3
+1976,New Hampshire,NH,33,4,,4
+1976,New Jersey,NJ,34,17,,17
+1976,New Mexico,NM,35,4,,4
+1976,New York,NY,36,41,41,
+1976,North Carolina,NC,37,13,13,
+1976,North Dakota,ND,38,3,,3
+1976,Ohio,OH,39,25,25,
+1976,Oklahoma,OK,40,8,,8
+1976,Oregon,OR,41,6,,6
+1976,Pennsylvania,PA,42,27,27,
+1976,Rhode Island,RI,44,4,4,
+1976,South Carolina,SC,45,8,8,
+1976,South Dakota,SD,46,4,,4
+1976,Tennessee,TN,47,10,10,
+1976,Texas,TX,48,26,26,
+1976,Utah,UT,49,4,,4
+1976,Vermont,VT,50,3,,3
+1976,Virginia,VA,51,12,,12
+1976,Washington,WA,53,9,,8
+1976,West Virginia,WV,54,6,6,
+1976,Wisconsin,WI,55,11,11,
+1976,Wyoming,WY,56,3,,3
+1976,Total,,,538,297,240
+1972,Alabama,AL,01,9,,9
+1972,Alaska,AK,02,3,,3
+1972,Arizona,AZ,04,6,,6
+1972,Arkansas,AR,05,6,,6
+1972,California,CA,06,45,,45
+1972,Colorado,CO,08,7,,7
+1972,Connecticut,CT,09,8,,8
+1972,Delaware,DE,10,3,,3
+1972,District of Columbia,DC,11,3,3,
+1972,Florida,FL,12,17,,17
+1972,Georgia,GA,13,12,,12
+1972,Hawaii,HI,15,4,,4
+1972,Idaho,ID,16,4,,4
+1972,Illinois,IL,17,26,,26
+1972,Indiana,IN,18,13,,13
+1972,Iowa,IA,19,8,,8
+1972,Kansas,KS,20,7,,7
+1972,Kentucky,KY,21,9,,9
+1972,Louisiana,LA,22,10,,10
+1972,Maine,ME,23,4,,4
+1972,Maryland,MD,24,10,,10
+1972,Massachusetts,MA,25,14,14,
+1972,Michigan,MI,26,21,,21
+1972,Minnesota,MN,27,10,,10
+1972,Mississippi,MS,28,7,,7
+1972,Missouri,MO,29,12,,12
+1972,Montana,MT,30,4,,4
+1972,Nebraska,NE,31,5,,5
+1972,Nevada,NV,32,3,,3
+1972,New Hampshire,NH,33,4,,4
+1972,New Jersey,NJ,34,17,,17
+1972,New Mexico,NM,35,4,,4
+1972,New York,NY,36,41,,41
+1972,North Carolina,NC,37,13,,13
+1972,North Dakota,ND,38,3,,3
+1972,Ohio,OH,39,25,,25
+1972,Oklahoma,OK,40,8,,8
+1972,Oregon,OR,41,6,,6
+1972,Pennsylvania,PA,42,27,,27
+1972,Rhode Island,RI,44,4,,4
+1972,South Carolina,SC,45,8,,8
+1972,South Dakota,SD,46,4,,4
+1972,Tennessee,TN,47,10,,10
+1972,Texas,TX,48,26,,26
+1972,Utah,UT,49,4,,4
+1972,Vermont,VT,50,3,,3
+1972,Virginia,VA,51,12,,11
+1972,Washington,WA,53,9,,9
+1972,West Virginia,WV,54,6,,6
+1972,Wisconsin,WI,55,11,,11
+1972,Wyoming,WY,56,3,,3
+1972,Total,,,538,17,520
+1968,Alabama,AL,01,10,,
+1968,Alaska,AK,02,3,,3
+1968,Arizona,AZ,04,5,,5
+1968,Arkansas,AR,05,6,,
+1968,California,CA,06,40,,40
+1968,Colorado,CO,08,6,,6
+1968,Connecticut,CT,09,8,8,
+1968,Delaware,DE,10,3,,3
+1968,District of Columbia,DC,11,3,3,
+1968,Florida,FL,12,14,,14
+1968,Georgia,GA,13,12,,
+1968,Hawaii,HI,15,4,4,
+1968,Idaho,ID,16,4,,4
+1968,Illinois,IL,17,26,,26
+1968,Indiana,IN,18,13,,13
+1968,Iowa,IA,19,9,,9
+1968,Kansas,KS,20,7,,7
+1968,Kentucky,KY,21,9,,9
+1968,Louisiana,LA,22,10,,
+1968,Maine,ME,23,4,4,
+1968,Maryland,MD,24,10,10,
+1968,Massachusetts,MA,25,14,14,
+1968,Michigan,MI,26,21,21,
+1968,Minnesota,MN,27,10,10,
+1968,Mississippi,MS,28,7,,
+1968,Missouri,MO,29,12,,12
+1968,Montana,MT,30,4,,4
+1968,Nebraska,NE,31,5,,5
+1968,Nevada,NV,32,3,,3
+1968,New Hampshire,NH,33,4,,4
+1968,New Jersey,NJ,34,17,,17
+1968,New Mexico,NM,35,4,,4
+1968,New York,NY,36,43,43,
+1968,North Carolina,NC,37,13,,12
+1968,North Dakota,ND,38,4,,4
+1968,Ohio,OH,39,26,,26
+1968,Oklahoma,OK,40,8,,8
+1968,Oregon,OR,41,6,,6
+1968,Pennsylvania,PA,42,29,29,
+1968,Rhode Island,RI,44,4,4,
+1968,South Carolina,SC,45,8,,8
+1968,South Dakota,SD,46,4,,4
+1968,Tennessee,TN,47,11,,11
+1968,Texas,TX,48,25,25,
+1968,Utah,UT,49,4,,4
+1968,Vermont,VT,50,3,,3
+1968,Virginia,VA,51,12,,12
+1968,Washington,WA,53,9,9,
+1968,West Virginia,WV,54,7,7,
+1968,Wisconsin,WI,55,12,,12
+1968,Wyoming,WY,56,3,,3
+1968,Total,,,538,191,301
