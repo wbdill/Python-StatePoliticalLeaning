@@ -1,4 +1,4 @@
-year,state,state_po,state_fips,dem,other,rep,totalvotes,dem_pct,rep_pct,other_pct,d_r_diff
+year,state,state_po,state_fips,dem,other,rep,total_votes,dem_pct,rep_pct,other_pct,d_r_diff
 1976,ALASKA,AK,02,44058,7961,71555,123574,35.65,57.9,6.44,-22.25
 1976,ALABAMA,AL,01,659170,19610,504070,1182850,55.73,42.61,1.66,13.12
 1976,ARKANSAS,AR,05,498604,1028,267903,767535,64.96,34.9,0.13,30.06
