@@ -1,11 +1,12 @@
 # US States - Political Leanings
+**THIS IS A WORK IN PROGRESS**
 The goal of this project is to provide a single metric for each state every 2 years indicating their political leaning based on multiple facrors:
 
 1. POTUS vote (every 4 years)
 2. US House vote (every 2 years)
 3. US Senate vote (every 2 years - missing every 3rd 2-year cycle)
-4. State House vote (every 2 years(
-5. State Senate vote (every 2 years - Nebraska is unicameal)
+4. State House vote (every 2 years)
+5. State Senate vote (every 2 years - Nebraska is unicameral)
 6. State Guernatorial (every 2 years - different years by state and NH, VT are every 2 years)
 
 The `data` folder contains processed data files as an intermediary step.
@@ -21,11 +22,16 @@ Subfolders within `data` folder (ex: `POTUS`) contain raw data files from author
 - Official Electoral College vote: [archives.gov](https://www.archives.gov/electoral-college/2024)
 
 ## US_Senate
+- TODO
 
 ## US_House
+- TODO
 
 ## State_Senate
+- TODO
 
 ## State_House
+- TODO
 
 ## Governor
+- TODO
